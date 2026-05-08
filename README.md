@@ -1,4 +1,4 @@
-# 🚀 Developer Portfolio — Aryan Sharma
+# 🚀 Developer Portfolio — Hemant Jangid
 
 A modern, animated, production-ready portfolio website built with **React + Vite**, **Tailwind CSS**, and **Framer Motion**.
 
@@ -223,4 +223,4 @@ zip -r portfolio.zip portfolio --exclude "portfolio/node_modules/*" --exclude "p
 
 ---
 
-Made with ❤️ by Aryan Sharma
+Made with ❤️ by Hemant Jangid
